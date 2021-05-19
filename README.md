@@ -17,6 +17,11 @@
   
 
 - ⚡ I'm always open minded to learn new things.  
+
+
+- My most recent project is: https://github.com/Marco-Costa1602/Projeto-Locadora (It's a project about a "Video Store")<br/>
+It was made using Python, Flask and MySql Workbench to process http requisitons. (GET, POST etc...) 
+The system was made mainly by using Endpoints.
   
 
 <br/>  
