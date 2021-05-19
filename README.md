@@ -9,7 +9,8 @@
 - 🔭 I don't work as a dev... Yet!  
   
 
-- 🌱 I’m currently learning C# and ASP.NET  
+- 🌱 I’m currently learning C# and ASP.NET at Blue Ed-Tech
+- and Computer Science at UFSJ.
   
 
 - ❓ Ask me about Python and Mysql.  
