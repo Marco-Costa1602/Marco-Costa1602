@@ -3,25 +3,26 @@
 </div>  
   
 
-### <div align="center">I'm Marco, a Software Engineer and Computer Science student!</div>  
+### <div align="center">I'm Marco, a Software Engineer student!</div>  
   
 
-- 🔭 I don't work as a dev... Yet!  
+- 🔭 Working as a Back-end Dev.  
   
 
 - 🌱 I’m currently learning C# and ASP.NET at Blue Ed-Tech
-- and Computer Science at UFSJ.
+- 🌱 Learning Java
+- I also want to learn JS
   
 
-- ❓ Ask me about Python and Mysql.  
+- ❓ Ask me about C# and ASP.NET .  
   
 
 - ⚡ I'm always open minded to learn new things.  
 
 
-- My most recent project is: https://github.com/Marco-Costa1602/Projeto-Locadora (It's a project about a "Video Store")<br/>
-It was made using Python, Flask and MySql Workbench to process http requisitons. (GET, POST etc...) 
-The system was made mainly by using Endpoints.
+- My most recent project is: https://github.com/Marco-Costa1602/GameLibrary (It's a Rest API")<br/>
+It was made C# and ASP.NET. Was made with the purpose to be kind of a Game Library, where it's possible to<br>
+insert new games, register new users, and sells these "games" to the user!
   
 
 <br/>  
