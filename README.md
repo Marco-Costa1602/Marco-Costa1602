@@ -2,105 +2,33 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+<h1 align="center">Hi 👋, I'm Marco Antônio Belchior da Costa</h1>
+<h3 align="center">I'm a Back-End Dev. Very passionate about tech area.</h3>
 
-### <div align="center">I'm Marco, a Software Engineer student!</div>  
-  
+- 🌱 I’m currently learning **C# and ASP.NET - Also JS for WebSockets**
 
-- 🔭 Working as a Back-end Dev.  
-  
+- 🤝 I’m looking for help with **WebSockets**
 
-- 🌱 I’m currently learning C# and ASP.NET at Blue Ed-Tech
-- 🌱 Learning Java
-- I also want to learn JS
-  
+- 👨‍💻 All of my projects are available at [https://github.com/Marco-Costa1602?tab=repositories](https://github.com/Marco-Costa1602?tab=repositories)
 
-- ❓ Ask me about C# and ASP.NET .  
-  
+- 💬 Ask me about **C# and ASP.NET**
 
-- ⚡ I'm always open minded to learn new things.  
+- 📫 How to reach me **marco.costa1602@gmail.com**
 
+- I'm Always open minded to learn new things, specially if they're tech related.
 
-- My most recent project is: https://github.com/Marco-Costa1602/GameLibrary (It's a Rest API")<br/>
-It was made C# and ASP.NET. Was made with the purpose to be kind of a Game Library, where it's possible to<br>
-insert new games, register new users, and sells these "games" to the user!
-  
+</br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/marcobelchior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcobelchior" height="30" width="40" /></a>
+<a href="https://instagram.com/marco_belchioor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marco_belchioor" height="30" width="40" /></a>
+</p>
+</br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<br/>  
+</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marco-costa1602&show_icons=true&locale=en&layout=compact" alt="marco-costa1602" /></p>
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Marco-Costa1602" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/marcobelchior" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/marco_belchioor" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Marco-Costa1602&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Marco-Costa1602&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco-costa1602&show_icons=true&locale=en" alt="marco-costa1602" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marco-costa1602&label=Profile%20views&color=0e75b6&style=flat" alt="marco-costa1602" /> </p>
